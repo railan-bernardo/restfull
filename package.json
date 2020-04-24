@@ -1,0 +1,30 @@
+{
+  "name": "restfull",
+  "version": "1.0.0",
+  "description": "aplicação restfull com nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/railan-bernardo/restfull.git"
+  },
+  "keywords": [
+    "restful"
+  ],
+  "author": "Railan Bernardo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/railan-bernardo/restfull/issues"
+  },
+  "homepage": "https://github.com/railan-bernardo/restfull#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "consign": "^0.1.6",
+    "express": "^4.17.1",
+    "express-validator": "^6.4.0",
+    "nedb": "^1.8.0",
+    "nodemon": "^2.0.3"
+  }
+}
